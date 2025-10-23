@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #202020;
+    color: white;
+    margin-top: 100px;
+}
+
+img {
+    width: 500px;
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+}
+
+figure {
+    text-align: center;
+    margin: 20px auto;
+}
+
+figcaption {
+    font-style: italic;
+    color: white;
+    margin-top: 5px;
+}
+
+button {
+    background-color: #e60d00;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #bf0a00;
+}

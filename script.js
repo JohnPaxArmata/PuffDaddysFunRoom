@@ -1,0 +1,1 @@
+document.getElementById("YoutubeReD").addEventListener("click", function() {window.open("https://www.youtube.com/watch?v=iIC9VRD-ZAk&list=RDiIC9VRD-ZAk&start_radio=1");});
